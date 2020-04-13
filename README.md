@@ -1,6 +1,6 @@
 # Welcome to your CDK TypeScript project!
 
-This is a example project to show how to use Python in an AWS Lambda function to control actions that you want to and send to anywhere, in this case to AWS AppSync a GraphQL server.
+This is a example project to show how to use Python in an AWS Lambda function to control actions that you desire to send to any AWS service, in this case to AWS AppSync a GraphQL server.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
